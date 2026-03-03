@@ -1,7 +1,6 @@
 package com.easycep.service;
 
 import com.easycep.client.CepClient;
-import com.easycep.config.ViaCepProperties;
 import com.easycep.dto.CepResponseDto;
 import com.easycep.dto.ViaCepResponseDto;
 import org.springframework.stereotype.Service;
